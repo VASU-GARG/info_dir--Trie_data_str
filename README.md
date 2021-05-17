@@ -1,1 +1,1 @@
-# info_dir--Trie_data_str
+# people information directory using trie data structure
